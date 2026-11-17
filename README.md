@@ -1,31 +1,51 @@
-# data-science-cohort
-My work from the data science cohort
+# Data Science Cohort
 
-📢 These 5 players are underpriced, here's why:
+My work from the data science cohort.
 
-Gonzalo (Fulham — Forward, £5.9m)
-Expected Points: 45.3 | Actual Points: 24 (Luck: -21.3)
-Why: He is the single most underperforming player in the entire league relative to his metrics. His attacking threat warrants nearly double the points he has actually received. For under £6.0m, he is an absolute bargain waiting to explode.
+## 📢 Five Underpriced Players—and Why
 
-Thiago (Brentford — Forward, £7.8m)
-Expected Points: 49.2 | Actual Points: 30 (Luck: -19.2)
-Why: He is putting up elite attacking numbers that rival premium strikers, but bad luck and outstanding opposing goalkeeper saves have kept his actual score low. He is due a major point correction.
+### Gonzalo — Fulham · Forward · £5.9m
 
-Sels (Nottingham Forest — Goalkeeper, £5.0m)
-Expected Points: 41.9 | Actual Points: 23 (Luck: -18.9)
-Why: Goalkeepers rarely show such a huge statistical deficit. His shot-stopping numbers and Forest's strong defensive shape indicate he should have almost 19 more points than he currently does. He is incredibly underpriced for his output.
+- **Expected points:** 45.3
+- **Actual points:** 24
+- **Luck differential:** −21.3
 
-Muñoz (Nottingham Forest — Defender, £5.2m)
-Expected Points: 35.6 | Actual Points: 17 (Luck: -18.6)
-Why: Another Forest defensive asset who is heavily under-rewarded. His underlying defensive contributions and attacking positions suggest he should have twice as many points as he currently does.
+He is the league’s most underperforming player relative to his metrics. His attacking threat suggests he could have nearly twice his current points. At under £6.0m, he may be a bargain waiting to break through.
 
-Maguire (Manchester United — Defender, £4.6m)
-Expected Points: 33.9 | Actual Points: 16 (Luck: -17.9)
-Why: At a very cheap £4.6m, his solid underlying metrics and aerial presence mean he should be a regular points-earner. His low actual tally is highly influenced by temporary bad luck.
+### Thiago — Brentford · Forward · £7.8m
 
-Things to remember:
-The data is live. Run this next week and the answers change.
+- **Expected points:** 49.2
+- **Actual points:** 30
+- **Luck differential:** −19.2
 
-Expected points is not a promise. It says who deserves more, not who will get it.
+His attacking numbers rival those of premium strikers, but his actual score has been held back by bad luck and strong saves from opposing goalkeepers. He could be due for a point correction.
 
-The model only knows what we gave it. No injuries, no fixtures, no form. Those are ideas for improving it.
+### Sels — Nottingham Forest · Goalkeeper · £5.0m
+
+- **Expected points:** 41.9
+- **Actual points:** 23
+- **Luck differential:** −18.9
+
+Goalkeepers rarely show such a large gap between expected and actual points. His shot-stopping numbers and Forest’s defensive shape suggest he could have nearly 19 more points.
+
+### Muñoz — Nottingham Forest · Defender · £5.2m
+
+- **Expected points:** 35.6
+- **Actual points:** 17
+- **Luck differential:** −18.6
+
+Another Forest defensive asset who has been under-rewarded. His underlying defensive contributions and attacking positions suggest he could have nearly twice his current points.
+
+### Maguire — Manchester United · Defender · £4.6m
+
+- **Expected points:** 33.9
+- **Actual points:** 16
+- **Luck differential:** −17.9
+
+At £4.6m, his underlying metrics and aerial presence make him an affordable potential points-earner. His low actual tally may be partly due to bad luck.
+
+## Things to Remember
+
+- The data is live. Run this next week and the results may change.
+- Expected points are not a promise. They indicate who may deserve more points, not who will get them.
+- The model only knows what we gave it. It does not account for injuries, fixtures, or form—those are possible areas for improvement.
